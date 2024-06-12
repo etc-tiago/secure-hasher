@@ -2,6 +2,9 @@
   "name": "secure-hasher",
   "version": "1.0.0",
   "description": "A secure hasher generator for Node.js",
+  "scripts": {
+    "test": "node index.spec.js"
+  },
   "keywords": [
     "hash",
     "hasher",
