@@ -22,7 +22,7 @@
   "author": "Tiago de Souza Santoa <tiago@clinica.work> (https://clinica.work)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/etc-tiago/secure-hasher.git"
+    "url": "git+https://github.com/etc-tiago/secure-hasher.git"
   },
   "main": "./index.js",
   "files": [
