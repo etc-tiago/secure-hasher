@@ -1,0 +1,35 @@
+{
+  "name": "secure-hasher",
+  "version": "1.0.0",
+  "description": "A secure hasher generator for Node.js",
+  "keywords": [
+    "hash",
+    "hasher",
+    "security",
+    "cryptography",
+    "password",
+    "salt",
+    "bcrypt",
+    "sha256",
+    "sha512",
+    "md5",
+    "sha1",
+    "sha3"
+  ],
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://github.com/etc-tiago/secure-hasher",
+  "author": "Tiago de Souza Santoa <tiago@clinica.work> (https://clinica.work)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etc-tiago/secure-hasher.git"
+  },
+  "main": "./index.js",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.d.ts",
+    "index.js"
+  ],
+  "types": "index.d.ts"
+}
